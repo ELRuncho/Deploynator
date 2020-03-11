@@ -1,2 +1,2 @@
 # Deploynator
-cli tool for deploying cfn stacks
+cli tool for *deploying cfn stacks*
